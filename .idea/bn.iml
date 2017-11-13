@@ -4,5 +4,15 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.5.2 (C:\Users\10422\Anaconda3\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="cyclegan" />
+    <orderEntry type="module" module-name="er" />
+    <orderEntry type="module" module-name="face_detection" />
+    <orderEntry type="module" module-name="process_image" />
+    <orderEntry type="module" module-name="spider" />
+    <orderEntry type="module" module-name="tensorflow-vgg-master" />
+    <orderEntry type="module" module-name="test_tensorflow" />
+    <orderEntry type="module" module-name="tianchi" />
+    <orderEntry type="module" module-name="wgan" />
+    <orderEntry type="module" module-name="wgan_gp" />
   </component>
 </module>

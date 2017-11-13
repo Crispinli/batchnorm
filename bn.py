@@ -2,11 +2,9 @@ import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 ACTIVITION = tf.nn.relu
 N_LAYERS = 7  # 总共7层隐藏层
 N_HIDDEN_UNITS = 30  # 每层包含30个神经元
-
 
 def fix_seed(seed=1):  # 设置随机数种子
     np.random.seed(seed)

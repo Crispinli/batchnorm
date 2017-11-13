@@ -3,6 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bn.iml" filepath="$PROJECT_DIR$/.idea/bn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cyclegan/.idea/cyclegan.iml" filepath="$PROJECT_DIR$/../cyclegan/.idea/cyclegan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../er/.idea/er.iml" filepath="$PROJECT_DIR$/../er/.idea/er.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../face_detection/.idea/face_detection.iml" filepath="$PROJECT_DIR$/../face_detection/.idea/face_detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../process_image/.idea/process_image.iml" filepath="$PROJECT_DIR$/../process_image/.idea/process_image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spider/.idea/spider.iml" filepath="$PROJECT_DIR$/../spider/.idea/spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensorflow-vgg-master/.idea/tensorflow-vgg-master.iml" filepath="$PROJECT_DIR$/../tensorflow-vgg-master/.idea/tensorflow-vgg-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_tensorflow/.idea/test_tensorflow.iml" filepath="$PROJECT_DIR$/../test_tensorflow/.idea/test_tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tianchi/.idea/tianchi.iml" filepath="$PROJECT_DIR$/../tianchi/.idea/tianchi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wgan/.idea/wgan.iml" filepath="$PROJECT_DIR$/../wgan/.idea/wgan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wgan_gp/.idea/wgan_gp.iml" filepath="$PROJECT_DIR$/../wgan_gp/.idea/wgan_gp.iml" />
     </modules>
   </component>
 </project>

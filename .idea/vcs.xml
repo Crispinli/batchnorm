@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../cyclegan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../er" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../face_detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../process_image" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tensorflow-vgg-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../test_tensorflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tianchi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../wgan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../wgan_gp" vcs="Git" />
   </component>
 </project>
